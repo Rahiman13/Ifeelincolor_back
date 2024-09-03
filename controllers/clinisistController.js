@@ -1,3 +1,4 @@
+// const Clinisist = require('../models/Clinisist');
 const Clinisist = require('../models/Clinisist');
 const bcrypt = require('bcryptjs');
 const Plan = require('../models/plan');
